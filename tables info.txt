@@ -1,0 +1,22 @@
+TABLES
+1. login3 (ADMIN LOGIN)
+colums- id
+        password
+2. login2 (student Login) 
+columns- id
+         password
+3. comment (question bank)
+   columns- comment
+            no
+            op1
+            op2
+            op3
+            op4
+
+4. answer1 (saving answers)
+   columns- ans
+            no
+
+5. answer (put answers)
+   columns- no
+            ans1
